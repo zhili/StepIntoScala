@@ -1,0 +1,6 @@
+#External Dependencies
+#Sat May 01 23:16:54 HKT 2010
+/Users/zhilihu/code/RationalExample/lib/specs-1.6.2.1.jar=src/test/scala/RationalSpec.scala
+/Users/zhilihu/code/RationalExample/target/scala_2.7.7/classes/main/scala/Rational.class=src/test/scala/RationalSpec.scala
+/Users/zhilihu/code/RationalExample/project/boot/scala-2.7.7/lib/scala-library.jar=src/test/scala/RationalSpec.scala
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=src/test/scala/RationalSpec.scala
